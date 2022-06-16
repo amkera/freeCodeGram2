@@ -63,5 +63,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+Notes:
+
 Left off at 31:14
 https://www.youtube.com/watch?v=ImtZ5yENzgE
+
+After editing a migration file like database/migrations/2014_10_12_000000_create_users_table.php where username was added, you need to run: `php artisan migrate:fresh`
