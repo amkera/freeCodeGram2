@@ -65,7 +65,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 Notes:
 
-Left off at 31:14
+Left off at 1:20:00
 https://www.youtube.com/watch?v=ImtZ5yENzgE
 
 After editing a migration file like database/migrations/2014_10_12_000000_create_users_table.php where username was added, you need to run: `php artisan migrate:fresh`
